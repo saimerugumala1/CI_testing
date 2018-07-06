@@ -1,3 +1,4 @@
 echo hello
 cd /home
 touch /tmp/1stprject
+mkidr test
